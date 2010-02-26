@@ -1,3 +1,4 @@
 # This was cloned from a TextMate bundle for yasnippet.
+#group: collections
 # --
 each_byte { |${1:byte}| $0 }

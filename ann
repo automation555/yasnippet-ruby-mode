@@ -1,4 +1,4 @@
 #name : assert_not_nil  ... 
-#group: assert
+#group: assertion
 # --
 assert_not_nil ${object}

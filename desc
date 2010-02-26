@@ -1,4 +1,5 @@
 #name : describe (rspec)
+#group: documentation
 # --
 describe "${1:method}" do
   it$0

@@ -1,4 +1,4 @@
 # This was cloned from a TextMate bundle for yasnippet.
-#group : Enumerables
+#group : collections
 # --
 each_slice(${1:2}) { |${2:group}| $0 }

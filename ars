@@ -1,4 +1,4 @@
 #name : assert_response : ... 
-#group: assert
+#group: assertion
 # --
 assert_response :${success}

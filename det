@@ -1,4 +1,4 @@
 #name : detect { |...| ... }
-#group : Enumerables
+#group : collections
 # --
 detect { |${e}| $0 }

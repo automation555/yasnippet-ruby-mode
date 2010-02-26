@@ -1,4 +1,5 @@
 #name : Benchmark.bmbm(...) do ... end
+#group : benchmark
 # --
 Benchmark.bmbm(${1:10}) do |x|
   $0

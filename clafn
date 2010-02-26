@@ -1,3 +1,4 @@
 #name : class_from_name()
+#group: general
 # --
 split("::").inject(Object) { |par, const| par.const_get(const) }

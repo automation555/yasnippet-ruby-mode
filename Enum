@@ -1,5 +1,5 @@
 # This was cloned from a TextMate bundle for yasnippet.
-#group : Enumerables
+#group : collections
 # --
 include Enumerable
 

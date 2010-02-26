@@ -1,4 +1,4 @@
 #name : belongs_to : ... 
-#group: ActiveRecord
+#group: Rails models
 # --
 belongs_to :${class}
